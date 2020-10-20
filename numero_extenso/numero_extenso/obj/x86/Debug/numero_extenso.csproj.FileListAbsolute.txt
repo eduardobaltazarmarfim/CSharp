@@ -1,0 +1,14 @@
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\bin\Debug\numero_extenso.exe
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\bin\Debug\numero_extenso.pdb
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\obj\x86\Debug\numero_extenso.Form1.resources
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\obj\x86\Debug\numero_extenso.Properties.Resources.resources
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\obj\x86\Debug\numero_extenso.csproj.GenerateResource.Cache
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\obj\x86\Debug\numero_extenso.exe
+C:\Users\eduar\AppData\Local\Temporary Projects\numero_extenso\obj\x86\Debug\numero_extenso.pdb
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\obj\x86\Debug\numero_extenso.exe
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\obj\x86\Debug\numero_extenso.pdb
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\bin\Debug\numero_extenso.exe
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\bin\Debug\numero_extenso.pdb
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\obj\x86\Debug\numero_extenso.Form1.resources
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\obj\x86\Debug\numero_extenso.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Projetos\C#\numero_extenso\numero_extenso\obj\x86\Debug\numero_extenso.csproj.GenerateResource.Cache

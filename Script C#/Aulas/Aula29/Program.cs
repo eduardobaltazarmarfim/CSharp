@@ -8,12 +8,18 @@ namespace Aula29
         public int energia;
         public bool vivo;
         public string nome;
-        public Jogador(string n){
+        public Jogador(string n){ //método construtor permite ter um consolidação dos dados melhor
 
             nome=n;
             energia=100;
             vivo=true;
 
+        }
+
+        ~Jogador(){
+
+            Console.WriteLine("Método destruido com sucesso!");
+            //Já o método construtor ele limpar da memoria a classe que foi usada no escopo
         }
 
     }

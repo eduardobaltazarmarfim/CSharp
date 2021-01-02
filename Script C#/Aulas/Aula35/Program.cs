@@ -54,7 +54,12 @@ namespace Aula35
 
     class Carrocombate:Carro{
 
+        public string nome;
+        public Carrocombate(string nome){
 
+            this.nome=nome;
+
+        }
 
     }
 
@@ -62,9 +67,9 @@ namespace Aula35
     {
         static void Main()
         {
-            Carrocombate c1=new Carrocombate();
+            Carrocombate c1=new Carrocombate("Ferrare");
 
-            Console.WriteLine("{0} {1} {2}",c1.getrodas(),c1.getligar(),c1.vlmax);
+            Console.WriteLine("{0} {1} {2} {3}",c1.getrodas(),c1.getligar(),c1.vlmax,c1.nome);
         }
     }
 }

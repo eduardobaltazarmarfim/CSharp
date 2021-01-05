@@ -36,27 +36,29 @@ namespace Aula47
     class Program
     {
         static void Main()
-        {   
-            var num,res;
-            int cont=1;
-            char resp='s';
-
+        {              
+            
             Console.Clear();
-                        
+
+            double res=0,num=0;
+            char resp='s';
+            int cont=1;
+                                    
             cal calcular=new cal();
 
             while(resp=='s'){
-                
-                Console.Write("Digite {0}ª valor: ",cont);
+
+                Console.Write("Digite o {0}º valor: ",cont);
                 num=Convert.ToDouble(Console.ReadLine());
 
-                Console.Write("Deseja inserir mais um número?[s/n] ");
+                Console.Write("Deseja executar novamente?[s/n] ");
                 resp=Convert.ToChar(Console.ReadLine());
 
-                res=calcular.somar(num);
+                cont+=1;
 
+                res+=calcular.somar(num);               
 
-            }
+            }            
 
             Console.WriteLine("A soma dos valores é {0}",res);                       
                         
